@@ -14,7 +14,7 @@ commander
   .option('-n, --name <string>', 'Set default agent name', 'Default')
   .option('-k, --apiKey <string>', 'Set default agent api key')
   .action(async (cmd) => {
-    const PORT = process.env.PORT || cmd.port || 5000
+    const PORT = process.env.PORT || cmd.port || 5001
     const app = express()
 
     app.use(favicon(path.join(__dirname, '../build', 'favicon.ico')))

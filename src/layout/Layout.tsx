@@ -161,7 +161,7 @@ const Layout = () => {
       <ProLayout
         locale="en-US"
         contentWidth="Fixed"
-        title="Agent explorer"
+        title="vc-kit Demo Explorer"
         logo={false}
         menuItemRender={(menuItemProps, defaultDom) => {
           if (menuItemProps.isUrl || menuItemProps.children) {
