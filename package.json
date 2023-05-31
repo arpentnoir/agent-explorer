@@ -4,6 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://silly-cucurucho-bec94f.netlify.app/vckit/explorer",
   "engines": {
     "node": "18.x"
   },
