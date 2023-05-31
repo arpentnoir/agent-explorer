@@ -21,7 +21,7 @@ const App = () => {
         {
           <VeramoWeb3Provider>
             <ChatProvider>
-              <BrowserRouter basename="/vckit/explorer">
+              <BrowserRouter>
                 <Layout />
               </BrowserRouter>
             </ChatProvider>
