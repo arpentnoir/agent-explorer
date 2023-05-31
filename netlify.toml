@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/vckit/explorer"
+  to = "/"
+  status = 200
