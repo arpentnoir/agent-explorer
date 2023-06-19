@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/vckit/explorer/*"
+  from = "/vckit/demo/*"
   to = "/:splat"
   status = 200
