@@ -1,4 +1,4 @@
 [[redirects]] 
   from = "/vckit/demo/*"
-  to = "/vckit/demo/index.html"
+  to = "/index.html"
   status = 200
