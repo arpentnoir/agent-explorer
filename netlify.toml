@@ -1,6 +1,6 @@
 [[redirects]] 
   from = "/vckit/demo/static/*"
-  to = "/:splat"
+  to = "/static/:splat"
   status = 200
   
 [[redirects]] 
