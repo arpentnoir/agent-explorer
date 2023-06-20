@@ -1,4 +1,9 @@
 [[redirects]] 
+  from = "/vckit/demo/static/*"
+  to = "/vckit/demo/static/:splat"
+  status = 200
+  
+[[redirects]] 
   from = "/vckit/demo/*"
   to = "/index.html"
   status = 200
